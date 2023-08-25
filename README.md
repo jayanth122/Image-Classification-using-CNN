@@ -1,5 +1,3 @@
-# Image-Classification-using-CNN
-
 # Image Classification with CIFAR-10 Dataset
 
 In this project, we will train various machine learning models to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images.
